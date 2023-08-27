@@ -479,6 +479,7 @@
       "minecraft:skeleton": "2023-07-30 13:06:21 -0300",
       "minecraft:hoglin": "2023-07-30 12:21:49 -0300",
       "minecraft:creeper": "2023-07-30 13:07:41 -0300",
+      "minecraft:phantom": "2023-08-26 22:37:32 -0300",
       "minecraft:zombie": "2023-07-30 13:30:15 -0300"
     },
     "done": false
@@ -3379,6 +3380,18 @@
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2023-08-26 00:13:19 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2023-08-26 22:17:43 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2023-08-26 22:17:43 -0300"
     },
     "done": true
   },
