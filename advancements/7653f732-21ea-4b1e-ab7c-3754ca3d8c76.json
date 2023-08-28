@@ -509,7 +509,8 @@
       "beef": "2023-08-01 14:56:12 -0300",
       "apple": "2023-08-23 20:22:19 -0300",
       "golden_apple": "2023-08-17 13:59:58 -0300",
-      "bread": "2023-08-24 23:58:13 -0300"
+      "bread": "2023-08-24 23:58:13 -0300",
+      "golden_carrot": "2023-08-28 18:23:26 -0300"
     },
     "done": false
   },
@@ -599,6 +600,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2023-08-28 19:14:10 -0300",
       "minecraft:skeleton": "2023-07-30 12:28:18 -0300",
       "minecraft:ghast": "2023-08-25 13:00:21 -0300",
       "minecraft:hoglin": "2023-08-25 11:53:21 -0300",
@@ -608,7 +610,8 @@
       "minecraft:zombified_piglin": "2023-07-30 15:58:01 -0300",
       "minecraft:enderman": "2023-08-27 16:55:12 -0300",
       "minecraft:zombie": "2023-07-30 12:18:02 -0300",
-      "minecraft:drowned": "2023-07-30 00:38:25 -0300"
+      "minecraft:drowned": "2023-07-30 00:38:25 -0300",
+      "minecraft:zombie_villager": "2023-08-28 18:19:58 -0300"
     },
     "done": false
   },
@@ -3495,15 +3498,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cherry_planks": {
-    "criteria": {
-      "has_log": "2023-08-28 14:34:44 -0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cherry_wood": {
     "criteria": {
       "has_log": "2023-08-28 14:34:43 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2023-08-28 14:34:44 -0300"
     },
     "done": true
   },
