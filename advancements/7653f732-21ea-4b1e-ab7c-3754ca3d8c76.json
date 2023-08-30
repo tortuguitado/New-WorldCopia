@@ -3511,6 +3511,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2023-08-29 13:19:59 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2023-08-29 14:45:55 -0300"
@@ -3520,6 +3526,42 @@
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2023-08-29 14:45:55 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2023-08-29 14:45:55 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2023-08-29 14:45:55 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2023-08-29 14:45:55 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2023-08-29 14:45:55 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz": {
+    "criteria": {
+      "has_nether_quartz_ore": "2023-08-29 14:49:51 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz_from_blasting": {
+    "criteria": {
+      "has_nether_quartz_ore": "2023-08-29 14:49:51 -0300"
     },
     "done": true
   },
@@ -3541,12 +3583,6 @@
     },
     "done": true
   },
-  "minecraft:story/deflect_arrow": {
-    "criteria": {
-      "deflected_projectile": "2023-08-29 13:19:59 -0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/chiseled_quartz_block": {
     "criteria": {
       "has_quartz_block": "2023-08-29 15:05:25 -0300"
@@ -3562,12 +3598,6 @@
   "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2023-08-29 15:05:25 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/quartz": {
-    "criteria": {
-      "has_nether_quartz_ore": "2023-08-29 14:49:51 -0300"
     },
     "done": true
   },
@@ -3595,39 +3625,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/diorite": {
-    "criteria": {
-      "has_quartz": "2023-08-29 14:45:55 -0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2023-08-29 15:05:25 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite": {
-    "criteria": {
-      "has_quartz": "2023-08-29 14:45:55 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/quartz_from_blasting": {
-    "criteria": {
-      "has_nether_quartz_ore": "2023-08-29 14:49:51 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_block": {
-    "criteria": {
-      "has_quartz": "2023-08-29 14:45:55 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/daylight_detector": {
-    "criteria": {
-      "has_quartz": "2023-08-29 14:45:55 -0300"
     },
     "done": true
   },
